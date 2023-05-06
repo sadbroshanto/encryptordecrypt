@@ -16,6 +16,8 @@ cd encryptordecrypt
 
 bash requirements.sh
 
+Work python or python3 run this tools
+
 python sadbro.py
 
 python3 sadbro.py
